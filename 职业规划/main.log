@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  25 DEC 2020 19:33
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  28 DEC 2020 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,23 +603,27 @@ File: 图片1.png Graphic file (type bmp)
 <图片1.png>
  [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 192.
+(Font)              <7> on input line 207.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 192.
+(Font)              <5> on input line 207.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: skillmap.jpg Graphic file (type bmp)
 <skillmap.jpg>
- [5]
+[5] [6]
 Overfull \vbox (10.9797pt too high) has occurred while \output is active []
 
 
-[6] (./main.aux) ) 
+[7] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 9952 strings out of 479418
- 251391 string characters out of 5881944
+ 9963 strings out of 479418
+ 252126 string characters out of 5881944
  548180 words of memory out of 5000000
- 27300 multiletter control sequences out of 15000+600000
+ 27311 multiletter control sequences out of 15000+600000
  535437 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,9n,68p,1053b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (7 pages).
+Output written on main.pdf (8 pages).
