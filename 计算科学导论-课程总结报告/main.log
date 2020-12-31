@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  28 DEC 2020 20:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  31 DEC 2020 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,18 +592,21 @@ Overfull \hbox (18.0947pt too wide) in paragraph at lines 53--63
 [1
 
 ] [1] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+File: 卷积神经网络.png Graphic file (type bmp)
+<卷积神经网络.png>
+ [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-(./main.bbl) [3] (./main.aux) ) 
+(./main.bbl [5]) [6] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 9926 strings out of 479418
- 254917 string characters out of 5881944
- 553231 words of memory out of 5000000
- 27286 multiletter control sequences out of 15000+600000
- 535421 words of font info for 63 fonts, out of 8000000 for 9000
+ 10035 strings out of 479418
+ 261163 string characters out of 5881944
+ 553239 words of memory out of 5000000
+ 27389 multiletter control sequences out of 15000+600000
+ 535437 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,7n,68p,1053b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (4 pages).
+Output written on main.pdf (7 pages).
