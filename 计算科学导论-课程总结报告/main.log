@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  31 DEC 2020 17:12
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  31 DEC 2020 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,7 +433,23 @@ put line 308.
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks23
 \dt@b=\toks24
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+
+LaTeX Warning: Label `fig:' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -595,18 +611,35 @@ Overfull \hbox (18.0947pt too wide) in paragraph at lines 53--63
 File: 卷积神经网络.png Graphic file (type bmp)
 <卷积神经网络.png>
  [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+File: github.png Graphic file (type bmp)
+<github.png>
+ [5]
+File: 观察者.jpg Graphic file (type bmp)
+<观察者.jpg>
+File: 学习强国.jpg Graphic file (type bmp)
+<学习强国.jpg>
+ [6]
+File: 哔哩哔哩.jpg Graphic file (type bmp)
+<哔哩哔哩.jpg>
+File: csdn.jpg Graphic file (type bmp)
+<csdn.jpg>
+ [7]
+File: 个人博客.png Graphic file (type bmp)
+<个人博客.png>
+File: 小木虫.png Graphic file (type bmp)
+<小木虫.png>
+ [8] [9] (./main.aux)
 
- []
+LaTeX Warning: There were multiply-defined labels.
 
-(./main.bbl [5]) [6] (./main.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 10035 strings out of 479418
- 261163 string characters out of 5881944
- 553239 words of memory out of 5000000
- 27389 multiletter control sequences out of 15000+600000
- 535437 words of font info for 65 fonts, out of 8000000 for 9000
+ 10076 strings out of 479418
+ 259986 string characters out of 5881944
+ 553249 words of memory out of 5000000
+ 27434 multiletter control sequences out of 15000+600000
+ 535421 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,7n,68p,1053b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (7 pages).
+Output written on main.pdf (10 pages).
