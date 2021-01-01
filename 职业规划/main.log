@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  28 DEC 2020 21:14
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  1 JAN 2021 10:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -602,24 +602,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: 图片1.png Graphic file (type bmp)
 <图片1.png>
  [2] [3] [4]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 207.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 207.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: skillmap.jpg Graphic file (type bmp)
 <skillmap.jpg>
-[5] [6]
+ [5]
 Overfull \vbox (10.9797pt too high) has occurred while \output is active []
 
 
-[7] (./main.aux) ) 
+[6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 214.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 214.
+ [7] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  9963 strings out of 479418
- 252126 string characters out of 5881944
+ 252115 string characters out of 5881944
  548180 words of memory out of 5000000
  27311 multiletter control sequences out of 15000+600000
  535437 words of font info for 65 fonts, out of 8000000 for 9000
