@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  5 JAN 2021 10:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.25)  5 JAN 2021 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -619,9 +619,9 @@ Overfull \vbox (10.9797pt too high) has occurred while \output is active []
 
 [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 228.
+(Font)              <7> on input line 229.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 228.
+(Font)              <5> on input line 229.
  [8] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
